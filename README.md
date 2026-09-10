@@ -43,7 +43,7 @@ EAGLE-SEC PRO is an intercepting proxy intended **only** for testing systems you
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/eagle-sec-pro.git
+git clone https://github.com/your-username/EAGLE-SEC-PRO-ENCHANCED.git
 cd eagle-sec-pro
 install_requirements.bat
 ```
