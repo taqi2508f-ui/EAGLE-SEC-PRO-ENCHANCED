@@ -1,0 +1,686 @@
+[2026-06-06 15:48:03] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-06 15:48:03] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-06 15:48:03] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-06 15:48:03] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-06 15:48:06] [INFO    ] [db_manager] Database initialized at C:\Users\User\Downloads\EAGLE-SEC-PRO-ENHANCED-FIXED (1)\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-06 15:48:06] [INFO    ] [session_manager] Loaded 0 sessions from disk
+[2026-06-06 15:48:06] [INFO    ] [session_manager] New session created: Default Session (47dd2003-125a-4c11-bb28-1238e949b383)
+[2026-06-06 15:48:06] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to C:\Users\User\Downloads\EAGLE-SEC-PRO-ENHANCED-FIXED (1)\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-06 15:48:06] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-06 15:48:06] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-06 15:48:06] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-06 15:48:06] [INFO    ] [main_window] MainWindow initialized
+[2026-06-06 15:48:07] [INFO    ] [cert_manager] CA certificate generated at C:\Users\User\Downloads\EAGLE-SEC-PRO-ENHANCED-FIXED (1)\EAGLE-SEC-PRO-ENHANCED\database\certs\eagle_ca.crt
+[2026-06-06 15:48:07] [INFO    ] [main_window] CA certificate ready
+[2026-06-06 15:48:37] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-06 15:49:06] [DEBUG   ] [session_manager] Session saved: 47dd2003-125a-4c11-bb28-1238e949b383
+[2026-06-06 15:49:06] [DEBUG   ] [main_window] Autosave complete
+[2026-06-06 15:49:35] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=4f2fc3fb-3bfc-46bd-8e39-16d2060455d2
+[2026-06-06 15:49:44] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/: timed out
+[2026-06-06 15:49:46] [DEBUG   ] [proxy_engine] Forward error GET http://4.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b812a1e-1d19-4d79-b876-28170bad2515?P1=1780761486&P2=404&P3=2&P4=Lu7xjstHN%2f8OsdRLNOFvdwrQo%2bIy3qnKKbgyGCJ801h6MRMobDd3azMq0uY3rR6NM01SKsFJeo6FS%2fZTRLJR1Q%3d%3d: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-06-06 15:50:01] [DEBUG   ] [proxy_engine] Forward error GET http://4.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b812a1e-1d19-4d79-b876-28170bad2515?P1=1780761486&P2=404&P3=2&P4=Lu7xjstHN%2f8OsdRLNOFvdwrQo%2bIy3qnKKbgyGCJ801h6MRMobDd3azMq0uY3rR6NM01SKsFJeo6FS%2fZTRLJR1Q%3d%3d: timed out
+[2026-06-06 15:50:03] [DEBUG   ] [proxy_engine] Forward error GET http://4.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b812a1e-1d19-4d79-b876-28170bad2515?P1=1780761486&P2=404&P3=2&P4=Lu7xjstHN%2f8OsdRLNOFvdwrQo%2bIy3qnKKbgyGCJ801h6MRMobDd3azMq0uY3rR6NM01SKsFJeo6FS%2fZTRLJR1Q%3d%3d: timed out
+[2026-06-06 15:50:04] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=6c509dd1-5e05-4a82-92d5-09b50e56bc09
+[2026-06-06 15:50:06] [DEBUG   ] [session_manager] Session saved: 47dd2003-125a-4c11-bb28-1238e949b383
+[2026-06-06 15:50:06] [DEBUG   ] [main_window] Autosave complete
+[2026-06-06 15:50:24] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=2b815697-7153-4925-9083-a16234a90963
+[2026-06-06 15:50:31] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=5afe3afc-3f29-48b5-88eb-f79a58459ea4
+[2026-06-06 15:50:48] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=4da17a53-f272-4fad-894a-fb79eba11dff
+[2026-06-06 15:50:59] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=14e035b6-71bb-475a-8d37-396ded9d9ba5
+[2026-06-06 15:50:59] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/: timed out
+[2026-06-06 15:51:03] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/Cuscss/login.css?2016071414214747874553184798: timed out
+[2026-06-06 15:51:05] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/resource/common/md5.js?2016071414214747874553184798: timed out
+[2026-06-06 15:51:06] [DEBUG   ] [session_manager] Session saved: 47dd2003-125a-4c11-bb28-1238e949b383
+[2026-06-06 15:51:06] [DEBUG   ] [main_window] Autosave complete
+[2026-06-06 15:51:10] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/resource/common/RndSecurityFormat.js?2016071414214747874553184798: timed out
+[2026-06-06 15:51:13] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/resource/common/jquery.min.js?2016071414214747874553184798: timed out
+[2026-06-06 15:51:15] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/resource/common/safelogin.js?2016071414214747874553184798: timed out
+[2026-06-06 15:51:28] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=1ce6bb17-488d-45a9-bfdb-c15d527ec9fc
+[2026-06-06 15:51:32] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=a268e6e5-640f-456c-b8dc-ddb57a29bbca
+[2026-06-06 15:51:37] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/images/button_bg.gif: timed out
+[2026-06-06 15:51:39] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/images/login_inupt.gif: timed out
+[2026-06-06 15:51:47] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/images/logo.gif: timed out
+[2026-06-06 15:51:51] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=eb666f95-2498-4cc4-90d4-719cce65d2f0
+[2026-06-06 15:52:00] [DEBUG   ] [proxy_engine] Forward error GET http://4.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b812a1e-1d19-4d79-b876-28170bad2515?P1=1780761486&P2=404&P3=2&P4=Lu7xjstHN%2f8OsdRLNOFvdwrQo%2bIy3qnKKbgyGCJ801h6MRMobDd3azMq0uY3rR6NM01SKsFJeo6FS%2fZTRLJR1Q%3d%3d: timed out
+[2026-06-06 15:52:01] [DEBUG   ] [proxy_engine] Forward error GET http://4.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0b812a1e-1d19-4d79-b876-28170bad2515?P1=1780761486&P2=404&P3=2&P4=Lu7xjstHN%2f8OsdRLNOFvdwrQo%2bIy3qnKKbgyGCJ801h6MRMobDd3azMq0uY3rR6NM01SKsFJeo6FS%2fZTRLJR1Q%3d%3d: timed out
+[2026-06-06 15:52:04] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=712bae95-9f7a-4baf-8529-8ec3644fae71
+[2026-06-06 15:52:05] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=eb666f95-2498-4cc4-90d4-719cce65d2f0
+[2026-06-06 15:52:06] [DEBUG   ] [session_manager] Session saved: 47dd2003-125a-4c11-bb28-1238e949b383
+[2026-06-06 15:52:06] [DEBUG   ] [main_window] Autosave complete
+[2026-06-06 15:52:10] [DEBUG   ] [proxy_engine] Forward error GET http://192.168.100.1/images/pic.jpg: timed out
+[2026-06-06 15:52:33] [DEBUG   ] [proxy_engine] Forward error GET http://c.pki.goog/r/r1.crl: timed out
+[2026-06-06 15:53:06] [DEBUG   ] [session_manager] Session saved: 47dd2003-125a-4c11-bb28-1238e949b383
+[2026-06-06 15:53:06] [DEBUG   ] [main_window] Autosave complete
+[2026-06-06 15:54:06] [DEBUG   ] [session_manager] Session saved: 47dd2003-125a-4c11-bb28-1238e949b383
+[2026-06-06 15:54:06] [DEBUG   ] [main_window] Autosave complete
+[2026-06-06 15:54:08] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-06 15:54:31] [DEBUG   ] [session_manager] Session saved: 47dd2003-125a-4c11-bb28-1238e949b383
+[2026-06-06 15:54:31] [INFO    ] [main_window] Application closing
+[2026-06-06 15:55:45] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-06 15:55:45] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-06 15:55:45] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-06 15:55:45] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-06 15:55:48] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-06 15:55:48] [INFO    ] [session_manager] Loaded 1 sessions from disk
+[2026-06-06 15:55:48] [INFO    ] [session_manager] New session created: Default Session (b6b3ba0b-704c-4c70-9aeb-4fa4f205f829)
+[2026-06-06 15:55:48] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-06 15:55:48] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-06 15:55:48] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-06 15:55:48] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-06 15:55:48] [INFO    ] [main_window] MainWindow initialized
+[2026-06-06 15:55:49] [INFO    ] [main_window] CA certificate ready
+[2026-06-06 15:56:02] [DEBUG   ] [session_manager] Session saved: b6b3ba0b-704c-4c70-9aeb-4fa4f205f829
+[2026-06-06 15:56:02] [INFO    ] [main_window] Application closing
+[2026-06-07 19:34:22] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-07 19:34:22] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-07 19:34:22] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-07 19:34:22] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-07 19:34:25] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-07 19:34:25] [INFO    ] [session_manager] Loaded 2 sessions from disk
+[2026-06-07 19:34:25] [INFO    ] [session_manager] New session created: Default Session (df7601fa-29c9-4a07-b1b4-0e851d4c54ac)
+[2026-06-07 19:34:26] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-07 19:34:26] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-07 19:34:26] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-07 19:34:26] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-07 19:34:26] [INFO    ] [main_window] MainWindow initialized
+[2026-06-07 19:34:27] [INFO    ] [main_window] CA certificate ready
+[2026-06-07 19:35:21] [DEBUG   ] [session_manager] Session saved: df7601fa-29c9-4a07-b1b4-0e851d4c54ac
+[2026-06-07 19:35:21] [INFO    ] [main_window] Application closing
+[2026-06-08 01:43:33] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-08 01:43:33] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-08 01:43:33] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-08 01:43:33] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-08 01:43:36] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-08 01:43:36] [INFO    ] [session_manager] Loaded 3 sessions from disk
+[2026-06-08 01:43:36] [INFO    ] [session_manager] New session created: Default Session (caefed92-fbfa-487a-9ac9-bebcae2c846f)
+[2026-06-08 01:43:37] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-08 01:43:37] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-08 01:43:37] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-08 01:43:37] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-08 01:43:37] [INFO    ] [main_window] MainWindow initialized
+[2026-06-08 01:43:38] [INFO    ] [main_window] CA certificate ready
+[2026-06-08 01:43:45] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-08 01:44:37] [DEBUG   ] [session_manager] Session saved: caefed92-fbfa-487a-9ac9-bebcae2c846f
+[2026-06-08 01:44:37] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 01:45:37] [DEBUG   ] [session_manager] Session saved: caefed92-fbfa-487a-9ac9-bebcae2c846f
+[2026-06-08 01:45:37] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 01:46:37] [DEBUG   ] [session_manager] Session saved: caefed92-fbfa-487a-9ac9-bebcae2c846f
+[2026-06-08 01:46:37] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 01:47:37] [DEBUG   ] [session_manager] Session saved: caefed92-fbfa-487a-9ac9-bebcae2c846f
+[2026-06-08 01:47:37] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 01:48:37] [DEBUG   ] [session_manager] Session saved: caefed92-fbfa-487a-9ac9-bebcae2c846f
+[2026-06-08 01:48:37] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 01:49:37] [DEBUG   ] [session_manager] Session saved: caefed92-fbfa-487a-9ac9-bebcae2c846f
+[2026-06-08 01:49:37] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 01:49:55] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-08 01:49:57] [DEBUG   ] [session_manager] Session saved: caefed92-fbfa-487a-9ac9-bebcae2c846f
+[2026-06-08 01:49:57] [INFO    ] [main_window] Application closing
+[2026-06-08 13:58:45] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-08 13:58:45] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-08 13:58:45] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-08 13:58:45] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-08 13:58:48] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-08 13:58:48] [INFO    ] [session_manager] Loaded 4 sessions from disk
+[2026-06-08 13:58:48] [INFO    ] [session_manager] New session created: Default Session (cf6b2ec3-dce8-47cb-b3c7-a9525bafb813)
+[2026-06-08 13:58:48] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-08 13:58:48] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-08 13:58:48] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-08 13:58:48] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-08 13:58:48] [INFO    ] [main_window] MainWindow initialized
+[2026-06-08 13:58:49] [INFO    ] [main_window] CA certificate ready
+[2026-06-08 13:58:58] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-08 13:59:48] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 13:59:48] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:00:48] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 14:00:48] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:01:48] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 14:01:48] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:02:48] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 14:02:48] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:03:48] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 14:03:48] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:04:48] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 14:04:48] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:05:48] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 14:05:48] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:06:48] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 14:06:48] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:06:59] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-08 14:07:01] [DEBUG   ] [session_manager] Session saved: cf6b2ec3-dce8-47cb-b3c7-a9525bafb813
+[2026-06-08 14:07:01] [INFO    ] [main_window] Application closing
+[2026-06-08 14:09:15] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-08 14:09:15] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-08 14:09:15] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-08 14:09:15] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-08 14:09:18] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-08 14:09:18] [INFO    ] [session_manager] Loaded 5 sessions from disk
+[2026-06-08 14:09:18] [INFO    ] [session_manager] New session created: Default Session (a995b790-fc96-4302-9dd9-4d19e28ef51f)
+[2026-06-08 14:09:19] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-08 14:09:19] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-08 14:09:19] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-08 14:09:19] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-08 14:09:19] [INFO    ] [main_window] MainWindow initialized
+[2026-06-08 14:09:19] [INFO    ] [main_window] CA certificate ready
+[2026-06-08 14:09:36] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-08 14:10:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:10:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:10:56] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=adbdc917-f498-4d0b-ba89-4049a1c0d7cc
+[2026-06-08 14:11:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:11:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:12:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:12:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:13:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:13:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:14:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:14:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:15:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:15:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:16:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:16:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:17:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:17:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:18:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:18:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:19:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:19:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:20:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:20:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:21:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:21:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:22:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:22:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:23:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:23:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:24:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:24:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:24:56] [INFO    ] [crawler] Crawler started for https://aptechgarden.com
+[2026-06-08 14:25:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:25:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:26:19] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:26:19] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:26:43] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-08 14:26:45] [DEBUG   ] [session_manager] Session saved: a995b790-fc96-4302-9dd9-4d19e28ef51f
+[2026-06-08 14:26:45] [INFO    ] [main_window] Application closing
+[2026-06-08 14:28:31] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-08 14:28:31] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-08 14:28:31] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-08 14:28:31] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-08 14:28:34] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-08 14:28:34] [INFO    ] [session_manager] Loaded 6 sessions from disk
+[2026-06-08 14:28:34] [INFO    ] [session_manager] New session created: Default Session (537e6f75-5dfc-403c-b1d4-e28b5cfa2943)
+[2026-06-08 14:28:34] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-08 14:28:34] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-08 14:28:34] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-08 14:28:34] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-08 14:28:34] [INFO    ] [main_window] MainWindow initialized
+[2026-06-08 14:28:35] [INFO    ] [main_window] CA certificate ready
+[2026-06-08 14:28:40] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-08 14:29:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:29:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:30:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:30:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:31:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:31:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:32:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:32:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:33:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:33:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:34:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:34:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:35:33] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:33] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:35:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:35:45] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:45] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:45] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:45] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:45] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:46] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:46] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:46] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:47] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:47] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:47] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:47] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:49] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:49] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:49] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:49] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:56] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:56] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:56] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:56] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:58] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:58] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:5222: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:35:58] [DEBUG   ] [proxy_engine] CONNECT error for web.whatsapp.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:36:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:36:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:37:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:37:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:38:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:38:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:39:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:39:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:40:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:40:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:41:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:41:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:42:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:42:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:43:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:43:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:44:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:44:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:45:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:45:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:46:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:46:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:47:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:47:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for accounts.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for accounts.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for accounts.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for accounts.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:17] [DEBUG   ] [proxy_engine] CONNECT error for www.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:21] [DEBUG   ] [proxy_engine] CONNECT error for update.googleapis.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:21] [DEBUG   ] [proxy_engine] CONNECT error for update.googleapis.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:21] [DEBUG   ] [proxy_engine] CONNECT error for update.googleapis.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:21] [DEBUG   ] [proxy_engine] CONNECT error for update.googleapis.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:21] [DEBUG   ] [proxy_engine] CONNECT error for update.googleapis.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:21] [DEBUG   ] [proxy_engine] CONNECT error for mtalk.google.com:5228: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:21] [DEBUG   ] [proxy_engine] CONNECT error for android.clients.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:21] [DEBUG   ] [proxy_engine] CONNECT error for android.clients.google.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:26] [DEBUG   ] [proxy_engine] CONNECT error for optimizationguide-pa.googleapis.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:26] [DEBUG   ] [proxy_engine] CONNECT error for optimizationguide-pa.googleapis.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:26] [DEBUG   ] [proxy_engine] CONNECT error for optimizationguide-pa.googleapis.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:26] [DEBUG   ] [proxy_engine] CONNECT error for toloka.ai:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:26] [DEBUG   ] [proxy_engine] Forward error GET http://toloka.ai/: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:26] [DEBUG   ] [proxy_engine] CONNECT error for self.events.data.microsoft.com:443: [Errno 11001] getaddrinfo failed
+[2026-06-08 14:48:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:48:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:48:36] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=0259ea5a-631f-4f10-a3db-806a2a2d7fc9
+[2026-06-08 14:48:38] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=5971a841-daea-4fc2-8652-85e6b8173b78
+[2026-06-08 14:48:40] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=d33349bc-8dbf-4a1f-8f5e-40cb38bc9fa3
+[2026-06-08 14:48:45] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=11e1c138-7c8f-43bc-85f3-83af6c8bb0e3
+[2026-06-08 14:48:47] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=29013e63-c1d6-4101-9ff5-ff7e7e8fa137
+[2026-06-08 14:48:49] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=da20d0c1-8f52-45af-a05d-0ed61a4da185
+[2026-06-08 14:48:51] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=49a617bc-fddb-4b19-9d89-4edaaecc1e39
+[2026-06-08 14:48:52] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=518fa42b-875b-4349-a719-d6ff2197c44e
+[2026-06-08 14:48:53] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=8da7b3ea-35eb-438a-a48a-e0bb83f6f9a9
+[2026-06-08 14:48:55] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=88ca5170-01e1-49e4-aa7b-3bcc94f7bfa8
+[2026-06-08 14:49:00] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=6bb66696-2462-4ba6-bbb5-460bd1d37db8
+[2026-06-08 14:49:03] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=732d0203-8de9-4ec0-9b52-b53ee48be668
+[2026-06-08 14:49:05] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=5cf8b2e8-9123-4edb-aa25-e767f13cf669
+[2026-06-08 14:49:14] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=21a107a2-65d9-4904-9d02-c306dcb4180f
+[2026-06-08 14:49:17] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=604faa89-1fc1-4365-9e9c-630335ac2a10
+[2026-06-08 14:49:18] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=f8d9994b-ad6e-4c8d-b784-8f7fffda0d8f
+[2026-06-08 14:49:20] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=c67b09d1-9959-4ca4-8437-453f9922befb
+[2026-06-08 14:49:21] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=752e9e69-be1e-48f5-9a0f-93024c128b84
+[2026-06-08 14:49:23] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=239f23bb-8975-4c45-8bc8-ceb72625e2e6
+[2026-06-08 14:49:34] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:49:34] [DEBUG   ] [main_window] Autosave complete
+[2026-06-08 14:49:50] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-08 14:49:52] [DEBUG   ] [session_manager] Session saved: 537e6f75-5dfc-403c-b1d4-e28b5cfa2943
+[2026-06-08 14:49:52] [INFO    ] [main_window] Application closing
+[2026-06-13 17:21:18] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-13 17:21:18] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-13 17:21:18] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-13 17:21:18] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-13 17:21:22] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-13 17:21:22] [INFO    ] [session_manager] Loaded 7 sessions from disk
+[2026-06-13 17:21:22] [INFO    ] [session_manager] New session created: Default Session (607e12be-3ac8-48b9-8ad8-9e5bd615baaa)
+[2026-06-13 17:21:23] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-13 17:21:23] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-13 17:21:23] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-13 17:21:23] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-13 17:21:23] [INFO    ] [main_window] MainWindow initialized
+[2026-06-13 17:21:24] [INFO    ] [main_window] CA certificate ready
+[2026-06-13 17:22:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:22:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:22:59] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-13 17:23:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:23:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:24:09] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=be9ed2f3-bc34-4fe7-a586-d68ac13f6cc9
+[2026-06-13 17:24:11] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=bf92c361-6223-4f2c-9b11-91c6ccb40a27
+[2026-06-13 17:24:11] [DEBUG   ] [proxy_engine] CONNECT error for testaspnet.vulnweb.com:443: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[2026-06-13 17:24:12] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=cb04d726-9464-4c44-8e60-0224891b94f8
+[2026-06-13 17:24:14] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=4a659b3f-0239-4542-9201-f325a3116631
+[2026-06-13 17:24:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:24:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:24:30] [DEBUG   ] [proxy_engine] Forward error POST http://testaspnet.vulnweb.com/login.aspx: timed out
+[2026-06-13 17:24:32] [DEBUG   ] [proxy_engine] CONNECT error for testaspnet.vulnweb.com:443: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[2026-06-13 17:24:50] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-13 17:25:01] [DEBUG   ] [proxy_engine] CONNECT error for testaspnet.vulnweb.com:443: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[2026-06-13 17:25:05] [DEBUG   ] [proxy_engine] Forward error POST http://testaspnet.vulnweb.com/login.aspx: timed out
+[2026-06-13 17:25:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:25:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:26:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:26:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:27:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:27:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:28:04] [INFO    ] [crawler] Crawler started for https://www.cia.gov/
+[2026-06-13 17:28:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:28:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:28:58] [DEBUG   ] [crawler] Crawl error https://www.cia.gov/readingroom/: Exceeded 30 redirects.
+[2026-06-13 17:29:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:29:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:30:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:30:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:30:44] [INFO    ] [crawler] Crawler stopping...
+[2026-06-13 17:30:45] [INFO    ] [crawler] Crawler finished. Pages: 79
+[2026-06-13 17:31:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:31:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:31:59] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-13 17:32:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:32:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:33:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:33:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:34:13] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-13 17:34:14] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-13 17:34:23] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:34:23] [DEBUG   ] [main_window] Autosave complete
+[2026-06-13 17:34:33] [DEBUG   ] [proxy_engine] Forward error POST http://testaspnet.vulnweb.com/login.aspx: timed out
+[2026-06-13 17:35:03] [DEBUG   ] [proxy_engine] Forward error POST http://testaspnet.vulnweb.com/login.aspx: timed out
+[2026-06-13 17:35:11] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-13 17:35:13] [DEBUG   ] [session_manager] Session saved: 607e12be-3ac8-48b9-8ad8-9e5bd615baaa
+[2026-06-13 17:35:13] [INFO    ] [main_window] Application closing
+[2026-06-13 17:35:27] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-13 17:35:27] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-13 17:35:27] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-13 17:35:27] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-13 17:35:30] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-13 17:35:30] [INFO    ] [session_manager] Loaded 8 sessions from disk
+[2026-06-13 17:35:30] [INFO    ] [session_manager] New session created: Default Session (5d452275-3c06-4aa0-af68-b43bc2ba2c72)
+[2026-06-13 17:35:31] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-13 17:35:31] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-13 17:35:31] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-13 17:35:31] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-13 17:35:31] [INFO    ] [main_window] MainWindow initialized
+[2026-06-13 17:35:31] [INFO    ] [main_window] CA certificate ready
+[2026-06-13 17:35:38] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-06-13 17:35:41] [INFO    ] [proxy_engine] Proxy stopped
+[2026-06-13 17:35:43] [DEBUG   ] [session_manager] Session saved: 5d452275-3c06-4aa0-af68-b43bc2ba2c72
+[2026-06-13 17:35:43] [INFO    ] [main_window] Application closing
+[2026-06-18 00:43:13] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-18 00:43:13] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-18 00:43:13] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-18 00:43:13] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-18 00:43:16] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-18 00:43:16] [INFO    ] [session_manager] Loaded 9 sessions from disk
+[2026-06-18 00:43:16] [INFO    ] [session_manager] New session created: Default Session (8e434289-ade2-4e66-8f48-f45f5a1ac6f6)
+[2026-06-18 00:43:17] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-18 00:43:17] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-18 00:43:17] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-18 00:43:17] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-18 00:43:17] [INFO    ] [main_window] MainWindow initialized
+[2026-06-18 00:43:18] [INFO    ] [main_window] CA certificate ready
+[2026-06-18 00:43:38] [DEBUG   ] [session_manager] Session saved: 8e434289-ade2-4e66-8f48-f45f5a1ac6f6
+[2026-06-18 00:43:38] [INFO    ] [main_window] Application closing
+[2026-06-20 23:30:38] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-20 23:30:38] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-20 23:30:38] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-20 23:30:38] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-20 23:30:41] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-20 23:30:41] [INFO    ] [session_manager] Loaded 10 sessions from disk
+[2026-06-20 23:30:41] [INFO    ] [session_manager] New session created: Default Session (fa1fb19c-7806-47e2-ad0e-aa028931e48a)
+[2026-06-20 23:30:42] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-20 23:30:42] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-20 23:30:42] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-20 23:30:42] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-20 23:30:42] [INFO    ] [main_window] MainWindow initialized
+[2026-06-20 23:30:43] [INFO    ] [main_window] CA certificate ready
+[2026-06-20 23:30:50] [DEBUG   ] [session_manager] Session saved: fa1fb19c-7806-47e2-ad0e-aa028931e48a
+[2026-06-20 23:30:50] [INFO    ] [main_window] Application closing
+[2026-06-24 01:20:18] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-24 01:20:18] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-24 01:20:18] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-24 01:20:18] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-24 01:20:22] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-24 01:20:22] [INFO    ] [session_manager] Loaded 11 sessions from disk
+[2026-06-24 01:20:22] [INFO    ] [session_manager] New session created: Default Session (632c1b93-497a-47cc-83ce-63f995073e65)
+[2026-06-24 01:20:23] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-24 01:20:23] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-24 01:20:23] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-24 01:20:23] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-24 01:20:23] [INFO    ] [main_window] MainWindow initialized
+[2026-06-24 01:20:23] [INFO    ] [main_window] CA certificate ready
+[2026-06-24 01:20:29] [DEBUG   ] [session_manager] Session saved: 632c1b93-497a-47cc-83ce-63f995073e65
+[2026-06-24 01:20:29] [INFO    ] [main_window] Application closing
+[2026-06-24 21:54:01] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-24 21:54:01] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-24 21:54:01] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-06-24 21:54:01] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-06-24 21:54:03] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-06-24 21:54:04] [INFO    ] [session_manager] Loaded 12 sessions from disk
+[2026-06-24 21:54:04] [INFO    ] [session_manager] New session created: Default Session (ff0e7489-a762-44a6-a0e4-3863860fec82)
+[2026-06-24 21:54:04] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-06-24 21:54:04] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-06-24 21:54:04] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-06-24 21:54:04] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-06-24 21:54:04] [INFO    ] [main_window] MainWindow initialized
+[2026-06-24 21:54:05] [INFO    ] [main_window] CA certificate ready
+[2026-06-24 21:54:12] [DEBUG   ] [session_manager] Session saved: ff0e7489-a762-44a6-a0e4-3863860fec82
+[2026-06-24 21:54:12] [INFO    ] [main_window] Application closing
+[2026-07-12 16:41:51] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-12 16:41:51] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-12 16:41:51] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-12 16:41:51] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-12 16:41:53] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-07-12 16:41:54] [INFO    ] [session_manager] Loaded 13 sessions from disk
+[2026-07-12 16:41:54] [INFO    ] [session_manager] New session created: Default Session (c791c12f-42f4-40d8-979d-c2059f8c1967)
+[2026-07-12 16:41:54] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-07-12 16:41:54] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-07-12 16:41:54] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-07-12 16:41:54] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-07-12 16:41:54] [INFO    ] [main_window] MainWindow initialized
+[2026-07-12 16:41:55] [INFO    ] [main_window] CA certificate ready
+[2026-07-12 16:42:13] [DEBUG   ] [session_manager] Session saved: c791c12f-42f4-40d8-979d-c2059f8c1967
+[2026-07-12 16:42:13] [INFO    ] [main_window] Application closing
+[2026-07-12 19:28:12] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-12 19:28:12] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-12 19:28:12] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-12 19:28:12] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-12 19:28:15] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-07-12 19:28:15] [INFO    ] [session_manager] Loaded 14 sessions from disk
+[2026-07-12 19:28:15] [INFO    ] [session_manager] New session created: Default Session (1a472d9f-cf11-49a8-bf68-7efd7eb2cf08)
+[2026-07-12 19:28:16] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-07-12 19:28:16] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-07-12 19:28:16] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-07-12 19:28:16] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-07-12 19:28:16] [INFO    ] [main_window] MainWindow initialized
+[2026-07-12 19:28:16] [INFO    ] [main_window] CA certificate ready
+[2026-07-12 19:29:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:29:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:30:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:30:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:31:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:31:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:32:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:32:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:33:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:33:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:34:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:34:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:35:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:35:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:36:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:36:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:37:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:37:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:38:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:38:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:39:16] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:39:16] [DEBUG   ] [main_window] Autosave complete
+[2026-07-12 19:40:13] [DEBUG   ] [session_manager] Session saved: 1a472d9f-cf11-49a8-bf68-7efd7eb2cf08
+[2026-07-12 19:40:13] [INFO    ] [main_window] Application closing
+[2026-07-24 00:49:57] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 00:49:57] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 00:49:57] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 00:49:57] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 00:50:00] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-07-24 00:50:00] [INFO    ] [session_manager] Loaded 15 sessions from disk
+[2026-07-24 00:50:00] [INFO    ] [session_manager] New session created: Default Session (54cdc454-94a7-4a1c-a3fa-a11f133f505a)
+[2026-07-24 00:50:01] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-07-24 00:50:01] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-07-24 00:50:01] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-07-24 00:50:01] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-07-24 00:50:01] [INFO    ] [main_window] MainWindow initialized
+[2026-07-24 00:50:01] [INFO    ] [main_window] CA certificate ready
+[2026-07-24 00:50:26] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-07-24 00:51:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:51:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 00:51:57] [INFO    ] [proxy_engine] Proxy stopped
+[2026-07-24 00:51:57] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-07-24 00:52:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:52:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 00:53:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:53:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 00:54:00] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=af88d70f-08d6-41f5-9b9d-194fb00d8e86
+[2026-07-24 00:54:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:54:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 00:54:01] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=af88d70f-08d6-41f5-9b9d-194fb00d8e86
+[2026-07-24 00:54:02] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=861f671b-30f2-489d-8d68-445672ab8b9f
+[2026-07-24 00:54:04] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=42a5df37-5965-48c3-b415-b54d5715e853
+[2026-07-24 00:54:05] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=e7dca337-8ad0-4c55-a203-5fd29bdab478
+[2026-07-24 00:54:07] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=c9aeaa52-0274-4413-ab5d-f9a7a4ba77c3
+[2026-07-24 00:54:08] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=2b326a1d-35cb-4e39-9f59-5633315bfbb3
+[2026-07-24 00:54:11] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=c9aeaa52-0274-4413-ab5d-f9a7a4ba77c3
+[2026-07-24 00:54:16] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=861f671b-30f2-489d-8d68-445672ab8b9f
+[2026-07-24 00:55:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:55:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 00:56:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:56:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 00:57:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:57:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 00:57:53] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=f142297d-cd96-41c7-b41a-3be64b1cba2f
+[2026-07-24 00:57:56] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=7727ff2a-9aa6-4d24-bace-eac3839c9dcc
+[2026-07-24 00:57:58] [DEBUG   ] [proxy_tab] Forward called on non-intercepted request id=20f6f24e-b987-475f-a8be-bb752c557f83
+[2026-07-24 00:58:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:58:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 00:59:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 00:59:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 01:00:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 01:00:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 01:00:41] [INFO    ] [crawler] Crawler started for https://sudo-praxis.netlify.app/
+[2026-07-24 01:00:42] [INFO    ] [crawler] Crawler finished. Pages: 1
+[2026-07-24 01:01:01] [DEBUG   ] [session_manager] Session saved: 54cdc454-94a7-4a1c-a3fa-a11f133f505a
+[2026-07-24 01:01:01] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 01:01:17] [INFO    ] [crawler] Crawler started for https://sudo-praxis-ai.up.railway.app/signup.html
+[2026-07-24 01:01:20] [INFO    ] [crawler] Crawler finished. Pages: 3
+[2026-07-24 01:01:32] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 01:01:32] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 01:01:32] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 01:01:32] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 01:01:35] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-07-24 01:01:35] [INFO    ] [session_manager] Loaded 16 sessions from disk
+[2026-07-24 01:01:35] [INFO    ] [session_manager] New session created: Default Session (f6ab5cb8-f698-472e-954e-2719afb84855)
+[2026-07-24 01:01:35] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-07-24 01:01:35] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-07-24 01:01:35] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-07-24 01:01:35] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-07-24 01:01:35] [INFO    ] [main_window] MainWindow initialized
+[2026-07-24 01:01:36] [INFO    ] [main_window] CA certificate ready
+[2026-07-24 01:01:49] [INFO    ] [crawler] Crawler started for https://sudo-praxis-ai.up.railway.app/
+[2026-07-24 01:01:51] [DEBUG   ] [crawler] Crawl error https://sudo-praxis-ai.up.railway.app/: HTTPSConnectionPool(host='sudo-praxis-ai.up.railway.app', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=8080): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")))
+[2026-07-24 01:01:52] [INFO    ] [crawler] Crawler finished. Pages: 1
+[2026-07-24 01:02:01] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 01:02:01] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 01:02:01] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 01:02:01] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 01:02:04] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-07-24 01:02:04] [INFO    ] [session_manager] Loaded 16 sessions from disk
+[2026-07-24 01:02:04] [INFO    ] [session_manager] New session created: Default Session (39dbfb4e-0b32-4cc5-adde-b7fe5323dbe6)
+[2026-07-24 01:02:04] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-07-24 01:02:04] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-07-24 01:02:04] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-07-24 01:02:04] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-07-24 01:02:04] [INFO    ] [main_window] MainWindow initialized
+[2026-07-24 01:02:05] [INFO    ] [main_window] CA certificate ready
+[2026-07-24 01:03:04] [DEBUG   ] [session_manager] Session saved: 39dbfb4e-0b32-4cc5-adde-b7fe5323dbe6
+[2026-07-24 01:03:04] [DEBUG   ] [main_window] Autosave complete
+[2026-07-24 01:03:21] [INFO    ] [proxy_engine] Proxy started on 127.0.0.1:8080
+[2026-07-24 01:03:31] [INFO    ] [proxy_engine] Proxy stopped
+[2026-07-24 01:03:37] [DEBUG   ] [session_manager] Session saved: 39dbfb4e-0b32-4cc5-adde-b7fe5323dbe6
+[2026-07-24 01:03:37] [INFO    ] [main_window] Application closing
+[2026-07-24 01:04:22] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 01:04:22] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 01:04:22] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 01:04:22] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 01:04:25] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-07-24 01:04:25] [INFO    ] [session_manager] Loaded 17 sessions from disk
+[2026-07-24 01:04:25] [INFO    ] [session_manager] New session created: Default Session (7ec6ebe8-a099-4970-bee4-18801e4d1687)
+[2026-07-24 01:04:25] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-07-24 01:04:25] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-07-24 01:04:25] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-07-24 01:04:25] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-07-24 01:04:25] [INFO    ] [main_window] MainWindow initialized
+[2026-07-24 01:04:26] [INFO    ] [main_window] CA certificate ready
+[2026-07-24 01:04:58] [INFO    ] [crawler] Crawler started for https://adrxkcsgyaclytuefbit.supabase.co
+[2026-07-24 01:05:56] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 01:05:56] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 01:05:56] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-07-24 01:05:56] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-07-24 01:05:59] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-07-24 01:05:59] [INFO    ] [session_manager] Loaded 17 sessions from disk
+[2026-07-24 01:05:59] [INFO    ] [session_manager] New session created: Default Session (be2a7f89-3ab6-4764-aee1-8743cbe80e4f)
+[2026-07-24 01:05:59] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-07-24 01:05:59] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-07-24 01:05:59] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-07-24 01:05:59] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-07-24 01:05:59] [INFO    ] [main_window] MainWindow initialized
+[2026-07-24 01:06:00] [INFO    ] [main_window] CA certificate ready
+[2026-07-24 01:06:17] [INFO    ] [crawler] Crawler started for https://adrxkcsgyaclytuefbit.supabase.co
+[2026-07-24 01:06:18] [INFO    ] [crawler] Crawler finished. Pages: 1
+[2026-09-11 02:51:40] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-09-11 02:51:40] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-09-11 02:51:40] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-09-11 02:51:40] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-09-11 02:51:43] [INFO    ] [db_manager] Database initialized at D:\DOWNLOADS 2\EAGLE-SEC-PRO-ENHANCED\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-09-11 02:51:43] [INFO    ] [session_manager] Loaded 17 sessions from disk
+[2026-09-11 02:51:43] [INFO    ] [session_manager] New session created: Default Session (2ab372e5-0c79-45d7-b660-de1dd56ba3b9)
+[2026-09-11 02:51:43] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\DOWNLOADS 2\EAGLE-SEC-PRO-ENHANCED\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-09-11 02:51:43] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-09-11 02:51:43] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-09-11 02:51:43] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-09-11 02:51:43] [INFO    ] [main_window] MainWindow initialized
+[2026-09-11 02:51:44] [INFO    ] [main_window] CA certificate ready
+[2026-09-11 02:52:34] [DEBUG   ] [session_manager] Session saved: 2ab372e5-0c79-45d7-b660-de1dd56ba3b9
+[2026-09-11 02:52:34] [INFO    ] [main_window] Application closing
+[2026-09-11 02:55:25] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-09-11 02:55:25] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-09-11 02:55:25] [DEBUG   ] [theme_manager] Application font: Consolas
+[2026-09-11 02:55:25] [INFO    ] [theme_manager] APEX PREDATOR theme applied successfully
+[2026-09-11 02:55:27] [INFO    ] [db_manager] Database initialized at D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\database\data\eagle_sec.db
+[2026-09-11 02:55:27] [INFO    ] [session_manager] Loaded 18 sessions from disk
+[2026-09-11 02:55:27] [INFO    ] [session_manager] New session created: Default Session (1f492bad-cf5f-49a5-9617-584d6035a5c0)
+[2026-09-11 02:55:28] [INFO    ] [plugin_manager] [plugin] Request Logger v1.0.0 loaded — writing to D:\SOFTWARES\EAGLE-SEC-PRO-ENHANCED\plugins\example_logger\requests.log
+[2026-09-11 02:55:28] [INFO    ] [plugin_manager] Plugin loaded: Request Logger v1.0.0
+[2026-09-11 02:55:28] [INFO    ] [plugin_manager] Discovered 1 plugins
+[2026-09-11 02:55:28] [INFO    ] [main_window] Loaded 1 plugin(s)
+[2026-09-11 02:55:28] [INFO    ] [main_window] MainWindow initialized
+[2026-09-11 02:55:28] [INFO    ] [main_window] CA certificate ready
+[2026-09-11 02:55:37] [DEBUG   ] [session_manager] Session saved: 1f492bad-cf5f-49a5-9617-584d6035a5c0
+[2026-09-11 02:55:37] [INFO    ] [main_window] Application closing

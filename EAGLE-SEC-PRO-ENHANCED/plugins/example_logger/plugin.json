@@ -1,0 +1,9 @@
+{
+  "id": "example_logger",
+  "name": "Request Logger",
+  "version": "1.0.0",
+  "author": "EAGLE-SEC PRO",
+  "description": "Example plugin that logs all captured requests to a text file",
+  "entry": "main.py",
+  "min_version": "1.0.0"
+}
